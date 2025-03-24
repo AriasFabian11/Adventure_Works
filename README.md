@@ -20,18 +20,18 @@ Para garantizar datos precisos y estructurados, se llevaron a cabo varias transf
 ## 📊 Análisis del Dashboard en Power BI
 ### Estructura del Dashboard
 ### 📌 Portada: Navegación rápida entre las secciones clave.
-###📌 Tablero Financiero:
+### 📌 Tablero Financiero:
 - Indicadores clave de ingresos, margen bruto y utilidad.
 - Evolución mensual de ingresos, costos y rentabilidad.
 - Análisis de ventas por territorio.
 
-###📌 Mercado EE.UU.:
+### 📌 Mercado EE.UU.:
 - Detalle del rendimiento en el mercado estadounidense.
 - Indicadores financieros con foco en este segmento.
 - Mapa interactivo con ventas por estado.
 
 ## 📊 Resultados Principales y Próximos Pasos
-###🌟 Insights Clave
+### 🌟 Insights Clave
 - Estados Unidos representa el mercado más rentable, con ingresos de $9.37M.
 - El margen bruto general es del 41.15%, lo que indica eficiencia operativa.
 - Se detectan picos de ventas en junio y noviembre, lo que sugiere factores estacionales.
